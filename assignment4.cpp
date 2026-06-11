@@ -1,4 +1,4 @@
-tart
+/*tart
 
 Ask the user for:
 - Nightly room rate
@@ -37,4 +37,4 @@ Display which discount was applied:
 
 Print the final receipt.
 
-End
+End*/
